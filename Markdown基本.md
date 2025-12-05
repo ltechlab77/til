@@ -34,7 +34,7 @@
 `インラインコード`　バッククォートで囲む
 
 ブロック　バッククォート3つで囲む
-```
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Java!");
