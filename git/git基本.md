@@ -21,7 +21,7 @@ git commit(重要)
 git log　　
 - コミット履歴の確認
 
-　git branch
+git branch
 - 確認と新しいブランチの作成
 - `git branch ブランチ名`これで新しいブランチ
 - 実験的に使うことができ、ほかの作業との平行、修正がしやすい
