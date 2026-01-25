@@ -7,4 +7,4 @@
 
 現在：JAVA  
 
-予定: C言語,js,DBについて
+予定: C言語,js,DB,python  =>  LLM
